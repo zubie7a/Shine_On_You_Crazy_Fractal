@@ -4,7 +4,7 @@
 #Shine On You Crazy Fractal
 
 ###Description
-This app was developed at first just to paint the Julia Set (a subset of the Mandelbrot Set) of Fractals. A Julia Set is generated using a fixed point in the Complex Plane as a seed when evaluating all the points of the plane in a quadratic polynomial. The Mandelbrot Set uses each point where its evaluating the polynomial as the seed. 
+This app was developed at first just to paint the *Julia Set* (a subset of the Mandelbrot Set) of Fractals. A Julia Set is generated using a fixed point in the Complex Plane as a seed when evaluating all the points of the plane in a quadratic polynomial. The Mandelbrot Set uses each point where its evaluating the polynomial as the seed. This was done using *SFML 2.0 in C++* and for educational purposes, and is licensed for use under the *MIT License.*
 
 What I thought then was, what if I draw several Julia Sets per frame, varying slightly the 'fixed seed' parameter? This results in an animation of 'evolving' Julia Sets, since the proximity of the seed values yields similar Julia Sets.
 
@@ -22,4 +22,4 @@ Convoluted, and complex
 No matter how deep, full of detail  
 The intrinsic logic of the universe*  
 
-And when I watch this video, I can't help but notice how it continously cycles from two separate main bodies into a single one and viceversa. It looks as if two galaxies were dancing around each other, merging, and separating, and merging, and separating. The dynamics of galaxy collissions shows that when they collide, they sort of dance around each other, then separate, then go across each other again, until their cores merge. Luckily for fractals, their dance can go on forever.
+And when I watch this video, I can't help but notice how it continously cycles from two separate main bodies into a single one and viceversa. It looks as if two galaxies were dancing around each other, merging, and separating, and merging, and separating. The dynamics of galaxy collissions shows that when they collide, they sort of dance around each other, then separate, then go across each other again, until their cores merge. **Luckily for fractals, their dance can go on forever.**
