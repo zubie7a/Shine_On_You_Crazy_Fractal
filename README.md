@@ -22,4 +22,4 @@ Convoluted, and complex
 No matter how deep, full of detail  
 The intrinsic logic of the universe*  
 
-And when I watch this video, I can't help but notice how it continously cycle from two separate main bodies into a single one. It looks as if two galaxies were dancing around each other, merging, and separating, and merging, and separating. The dynamics of galaxy collissions shows that when they collide, they sort of dance around each other, then separate, then go across each other again, until their cores merge. Luckily for fractals, their dance can go on forever.
+And when I watch this video, I can't help but notice how it continously cycles from two separate main bodies into a single one and viceversa. It looks as if two galaxies were dancing around each other, merging, and separating, and merging, and separating. The dynamics of galaxy collissions shows that when they collide, they sort of dance around each other, then separate, then go across each other again, until their cores merge. Luckily for fractals, their dance can go on forever.
