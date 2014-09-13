@@ -1,7 +1,7 @@
 ##Santiago Zubieta
 ####2012
 
-*'Now there's a look in your eyes, like black holes in the sky'*  
+*'Now there's a look in your eyes, like Black Holes in the sky'*  
 -Pink Floyd, Shine On You Crazy Diamond
 
 #Shine On You Crazy Fractal
