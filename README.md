@@ -17,7 +17,7 @@ The variation in seed points can be done in two ways. First, as a traversal of t
 [Wikipedia Link](https://en.wikipedia.org/wiki/Julia_set)
 
 ###Showcasing Video
-[![](https://raw2.github.com/Zubieta/Shine_On_You_Crazy_Fractal/master/Screenshots/Screen_Shine.png)](https://www.youtube.com/watch?v=-Lhw-qdXUis)
+[![](https://raw.githubusercontent.com/Zubieta/Shine_On_You_Crazy_Fractal/master/Screenshots/Screen_Shine.png)](https://www.youtube.com/watch?v=-Lhw-qdXUis)
 
 ###Some Poetry
 *For all those fractal hearts  
