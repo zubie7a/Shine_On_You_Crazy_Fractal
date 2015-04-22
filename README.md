@@ -7,11 +7,9 @@
 #Shine On You Crazy Fractal
 
 ###Description
-This app was developed at first just to paint the **Julia Set** *(a subset of the Mandelbrot Set)* of Fractals. A Julia Set is generated using a fixed point in the Complex Plane as a seed when evaluating all the points of the plane in a quadratic polynomial. The Mandelbrot Set uses each point where its evaluating the polynomial as the seed. This was done using **SFML 2.0 in C++** and for educational purposes, and is licensed for use under the **MIT License.**
+This app was developed at first just to paint the **Julia Set** *(a subset of the Mandelbrot Set)* of Fractals. A Julia Set is generated using a fixed point in the **Complex Plane** as a seed when evaluating all the points of the plane in a quadratic polynomial. The **Mandelbrot Set** uses each point where its evaluating the polynomial as the seed. This was done using **SFML 2.0 in C++** and for educational purposes, and is licensed for use under the **MIT License.**
 
-What I thought then was, what if I draw one Julia Set per frame, varying slightly the 'fixed seed' parameter? This results in an animation of 'evolving' Julia Sets, since the proximity of the seed values yields similar Julia Sets. When people think of fractals, they first think of zooming them up infinitely which has nice psychedelic patterns showing up. But what about fractals that don't zoom, but mutate? That leads to nice psychedelic patterns forming too!
-
-The variation in seed points can be done in two ways. First, as a traversal of the complex plane in a 'scanning pattern', like a scan, going from a left X limit to a right X limit, and upon reaching the right X limit, carrying on to a lower Y value from the starting X point. The second way is a spiral, starting at a fixed radius, and traversing all the points that go along the circle describing that radius. Then increasing the radius a bit, and traversing all the new points. This could be thought of a kinda spiralish way to traverse the plane, up to reaching a certain radius limit.
+What I thought then was, what if I draw one **Julia Set** per frame, varying slightly the *'fixed seed'* parameter? This results in an animation of a 'evolving' fractal, since the proximity of the seed values yields similar fractals. When people think of fractals, they first think of zooming them up infinitely which has nice psychedelic patterns showing up. But what about fractals that don't zoom, but mutate? That leads to nice psychedelic patterns forming too!
 
 **Julia Set** 
 [Wikipedia Link](https://en.wikipedia.org/wiki/Julia_set)
