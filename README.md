@@ -9,7 +9,7 @@
 ###Description
 This app was developed at first just to paint the **Julia Set** *(a subset of the Mandelbrot Set)* of Fractals. A Julia Set is generated using a fixed point in the **Complex Plane** as a seed when evaluating all the points of the plane in a quadratic polynomial. The **Mandelbrot Set** uses each point where its evaluating the polynomial as the seed. This was done using **SFML 2.0 in C++** and for educational purposes, and is licensed for use under the **MIT License.**
 
-What I thought then was, what if I draw one **Julia Set** per frame, varying slightly the *'fixed seed'* parameter? This results in an animation of a 'evolving' fractal, since the proximity of the seed values yields similar fractals. When people think of fractals, they first think of zooming them up infinitely which has nice psychedelic patterns showing up. But what about fractals that don't zoom, but mutate? That leads to nice psychedelic patterns forming too!
+What I thought then was, what if I draw one **Julia Set** per frame, varying slightly the *'fixed seed'* parameter? This results in an animation of an *'evolving'* fractal, since the proximity of the seed values yields similar fractals. When people think of fractals, they first think of zooming them up infinitely which has nice psychedelic patterns showing up. But what about fractals that don't zoom, but mutate? That leads to nice psychedelic patterns forming too!
 
 **Julia Set** 
 [Wikipedia Link](https://en.wikipedia.org/wiki/Julia_set)
