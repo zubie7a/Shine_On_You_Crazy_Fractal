@@ -11,7 +11,7 @@ This app was developed at first just to paint the **Julia Set** *(a subset of th
 
 What I thought then was, what if I draw one **Julia Set** per frame, varying slightly the *'fixed seed'* parameter? This results in an animation of an *'evolving'* fractal since the proximity of the seed values yields similar fractals. When people think of fractals, they first think of zooming them up infinitely which has nice psychedelic patterns showing up. But what about fractals that don't zoom, but mutate? That leads to nice psychedelic patterns forming too!
 
-** Julia Set** 
+**Julia Set** 
 [Wikipedia Link](https://en.wikipedia.org/wiki/Julia_set)
 
 ### Showcasing Video
