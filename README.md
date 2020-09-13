@@ -18,7 +18,7 @@ This uses uses **SFML 2.0** for **C++**
 ### Animation Video
 [![][01]](https://www.youtube.com/watch?v=-Lhw-qdXUis)
 
-_'Now there's a look in your eyes, like Black Holes in the sky'_ 
+_'Now there's a look in your eyes, like Black Holes in the sky'_  
 -**Pink Floyd**, Shine On You Crazy Diamond
 
 ### Some Poetry
